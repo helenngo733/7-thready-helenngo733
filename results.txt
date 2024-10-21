@@ -1,0 +1,116 @@
+Pattern 1
+Thread 1 (140413342746176) beginning
+Thread 2 (140413334353472) beginning
+Thread 3 (140413325960768) beginning
+Thread 4 (140413317568064) beginning
+Thread 5 (140413309175360) beginning
+Thread 6 (140413300782656) beginning
+Thread 7 (140413292389952) beginning
+Thread 3 (140413325960768) exiting
+Thread 5 (140413309175360) exiting
+Thread 7 (140413292389952) exiting
+Thread 4 (140413317568064) exiting
+Thread 2 (140413334353472) exiting
+Thread 1 (140413342746176) exiting
+Thread 6 (140413300782656) exiting
+
+Pattern 2
+Thread 1 (140261967259456) beginning
+Thread 1 (140261967259456) creating thread 2
+Thread 2 (140261967255104) beginning
+Thread 2 (140261967255104) creating thread 3
+Thread 3 (140261958862400) beginning
+Thread 3 (140261958862400) creating thread 4
+Thread 4 (140261950469696) beginning
+Thread 4 (140261950469696) creating thread 5
+Thread 5 (140261942076992) beginning
+Thread 5 (140261942076992) creating thread 6
+Thread 6 (140261933684288) beginning
+Thread 6 (140261933684288) creating thread 7
+Thread 7 (140261925291584) beginning
+Thread 7 (140261925291584) exiting
+Thread 6 (140261933684288) exiting
+Thread 5 (140261942076992) exiting
+Thread 4 (140261950469696) exiting
+Thread 3 (140261958862400) exiting
+Thread 2 (140261967255104) exiting
+Thread 1 (140261967259456) exiting
+
+Pattern 1
+Thread 1 (140628299503168) beginning
+Thread 3 (140628282717760) beginning
+Thread 5 (140628265932352) beginning
+Thread 4 (140628274325056) beginning
+Thread 6 (140628257539648) beginning
+Thread 7 (140628249146944) beginning
+Thread 2 (140628291110464) beginning
+Thread 8 (140628240754240) beginning
+Thread 9 (140628232361536) beginning
+Thread 10 (140628223968832) beginning
+Thread 12 (140628207183424) beginning
+Thread 13 (140628198790720) beginning
+Thread 11 (140628215576128) beginning
+Thread 14 (140628190398016) beginning
+Thread 15 (140628182005312) beginning
+Thread 5 (140628265932352) exiting
+Thread 6 (140628257539648) exiting
+Thread 9 (140628232361536) exiting
+Thread 2 (140628291110464) exiting
+Thread 12 (140628207183424) exiting
+Thread 11 (140628215576128) exiting
+Thread 4 (140628274325056) exiting
+Thread 14 (140628190398016) exiting
+Thread 13 (140628198790720) exiting
+Thread 15 (140628182005312) exiting
+Thread 8 (140628240754240) exiting
+Thread 10 (140628223968832) exiting
+Thread 3 (140628282717760) exiting
+Thread 1 (140628299503168) exiting
+Thread 7 (140628249146944) exiting
+
+Pattern 2
+Thread 1 (139732889810752) beginning
+Thread 1 (139732889810752) creating thread 2
+Thread 2 (139732889806400) beginning
+Thread 2 (139732889806400) creating thread 3
+Thread 3 (139732881413696) beginning
+Thread 3 (139732881413696) creating thread 4
+Thread 4 (139732801549888) beginning
+Thread 4 (139732801549888) creating thread 5
+Thread 5 (139732793157184) beginning
+Thread 5 (139732793157184) creating thread 6
+Thread 6 (139732784764480) beginning
+Thread 6 (139732784764480) creating thread 7
+Thread 7 (139732776371776) beginning
+Thread 7 (139732776371776) creating thread 8
+Thread 8 (139732767979072) beginning
+Thread 8 (139732767979072) creating thread 9
+Thread 9 (139732759586368) beginning
+Thread 9 (139732759586368) creating thread 10
+Thread 10 (139732751193664) beginning
+Thread 10 (139732751193664) creating thread 11
+Thread 11 (139732264678976) beginning
+Thread 11 (139732264678976) creating thread 12
+Thread 12 (139732256286272) beginning
+Thread 12 (139732256286272) creating thread 13
+Thread 13 (139732247893568) beginning
+Thread 13 (139732247893568) creating thread 14
+Thread 14 (139732239500864) beginning
+Thread 14 (139732239500864) creating thread 15
+Thread 15 (139732231108160) beginning
+Thread 15 (139732231108160) exiting
+Thread 14 (139732239500864) exiting
+Thread 13 (139732247893568) exiting
+Thread 12 (139732256286272) exiting
+Thread 11 (139732264678976) exiting
+Thread 10 (139732751193664) exiting
+Thread 9 (139732759586368) exiting
+Thread 8 (139732767979072) exiting
+Thread 7 (139732776371776) exiting
+Thread 6 (139732784764480) exiting
+Thread 5 (139732793157184) exiting
+Thread 4 (139732801549888) exiting
+Thread 3 (139732881413696) exiting
+Thread 2 (139732889806400) exiting
+Thread 1 (139732889810752) exiting
+
